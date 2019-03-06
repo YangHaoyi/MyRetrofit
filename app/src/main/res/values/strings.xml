@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyRetrofit</string>
+    <string name="search_fail">搜索失败</string>
+    <string name="start_request">发起请求</string>
+    <string name="response">查询结果</string>
+    <string name="title_retrofit">Retrofit请求示例</string>
+</resources>

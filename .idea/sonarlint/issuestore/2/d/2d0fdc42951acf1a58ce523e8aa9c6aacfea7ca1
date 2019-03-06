@@ -1,0 +1,5 @@
+
+ssquid:S1450"YRemove the "tvResponse" field and declare it as a local variable in the relevant methods.(æþß²úÿÿÿÿ
+msquid:S1450"XRemove the "presenter" field and declare it as a local variable in the relevant methods.(Ù¾Ïï
+rsquid:S1450"XRemove the "fmContent" field and declare it as a local variable in the relevant methods.(¢ê¢òûÿÿÿÿ
+Bsquid:S1068"-Remove this unused "presenter" private field.(Ù¾Ïï

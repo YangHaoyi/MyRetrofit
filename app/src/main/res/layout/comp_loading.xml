@@ -1,0 +1,23 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#00000000"
+    android:clickable="true">
+    <!--android:background="#7F3C3C3C"-->
+
+    <FrameLayout
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@drawable/wait"
+        android:layout_gravity="center">
+        <ProgressBar
+            android:id="@+id/progressBar1"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:indeterminateDrawable="@anim/roate"
+            android:indeterminateDuration="1000"
+            android:layout_gravity="center" />
+    </FrameLayout>
+
+</FrameLayout>
